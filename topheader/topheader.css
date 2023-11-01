@@ -53,21 +53,59 @@ padding-left: 5px;
 }
 .departments{
     display: flex;
+    padding-left: 1px;
 }
 .departmentsmain{
     width:100%;
     padding-top: 120px;
     padding-left: 30px;
 }
-.deptimages{
-    width:5px;
-    padding-right:10px;
-}
-.deptimages{
-    display: flex;
+
+.dimage img{
+    width: 92%;
 }
 .deptimage1{
-    width: 50px;
-    height: 20px;
-
+    flex: 1;
+}
+.deptimage2{
+    flex: 1;
+}
+.deptimage3{
+    flex: 1;
+}
+.dimagetext{
+    padding-right: 10px;
+}
+.readme{
+    color: green;
+}
+.whyGG{
+    display: flex;
+background-color: #E8F9F6;
+}
+.leftcont img{
+    flex: 1;
+    width: 60%;
+}
+.rightcont{
+    flex:1;
+}
+.imgntext{
+    padding-top: 10px;
+    display: flex;
+    width:98%;
+    background-color: #E8F9F6;
+    padding-left: 10px;
+}
+#headerimg{
+    width: 100%;
+}
+.textnimg{
+    flex:1;
+  
+    padding-right: 90px;
+    font-size: large;
+}
+.headerimg{
+    flex:2;
 }
