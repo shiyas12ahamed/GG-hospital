@@ -124,3 +124,41 @@ background-color: #E8F9F6;
     padding: 15px;
     
 }
+.specialistdoc{
+    display: flex;
+}
+#dimagespec{
+    width: 80%;
+    border-radius: 5%;
+}
+.docimage1{
+    flex: 1;
+    padding-left: 10px;
+}
+.docimage2{
+    flex: 1;
+}
+.docimage3{
+    flex: 1;
+}
+.docimage4{
+    flex: 1;
+}
+#meetourspecialist{
+    padding-left: 525px;
+}
+#bestdoctors{
+    padding-bottom: 10px;
+    padding-left: 540px;
+    font-size:x-small;
+    color: grey;
+}
+#buttonviewall{
+    background-color: mediumseagreen;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.buttondiv{
+    padding-left: 550px;
+}
