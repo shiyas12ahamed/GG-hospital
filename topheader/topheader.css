@@ -162,3 +162,48 @@ background-color: #E8F9F6;
 .buttondiv{
     padding-left: 550px;
 }
+.facdoc{
+    display: flex;
+}
+.dimagespec1{
+flex:1;
+}
+.dimagespec2{
+    flex:1;
+ }
+.dimagespec3{
+        flex:1;
+ }
+ .facdoc img{
+    padding-right: 10px;
+ }
+ #dimagefac{
+    padding-left: 10px;
+    width: 95%;
+ }
+ #facandact{
+    padding-left: 550px;
+ }
+ .youmaybeinterested{
+display: flex;
+    background-color: #d6ecf3;
+ }
+ .dimageyou{
+    flex: 1;
+    position: relative;
+    padding-top: 20%;
+ }
+ .dimageyou img{
+    padding-left: 10px;
+    width:95%;
+ }
+ .dimageyou p{
+    padding-left: 10px;
+    width:80%;
+ }
+ #youmaybe{
+    padding-left: 500px;
+ }
+ .back{
+    position: absolute;
+ }
