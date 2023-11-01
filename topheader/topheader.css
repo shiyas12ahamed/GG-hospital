@@ -94,18 +94,33 @@ background-color: #E8F9F6;
     padding-top: 10px;
     display: flex;
     width:98%;
-    background-color: #E8F9F6;
+    background-color: #d6ecf3;
     padding-left: 10px;
 }
 #headerimg{
     width: 100%;
 }
 .textnimg{
+    padding-top: 20px;
     flex:1;
+    font-size: x-large;
   
     padding-right: 90px;
     font-size: large;
 }
 .headerimg{
     flex:2;
+}
+.tick{
+    display: flex;
+   
+}
+.tickimage{
+    padding-left:3px;
+    padding-bottom: 10px;
+}
+.ticktext{
+    
+    padding: 15px;
+    
 }
